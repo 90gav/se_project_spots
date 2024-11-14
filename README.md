@@ -6,7 +6,7 @@ An image sharing site.
 
 ## Description
 
-TODO - Describe the project
+This project is an image sharing site that all can enjoy. It is built for everyone including people on desktop, tablet and smartphone. This site is adaptive and will adjust according to your screen space available.
 
 ## Tech Stack
 
@@ -18,14 +18,4 @@ TODO - Describe the project
 
 This webpage is deployed to GitHub Pages
 
-- Deployment Link:
-
-**Figma**
-
-- [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-
-**Images**
-
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
-
-Good luck and have fun!
+- [Deployment Link](https://90gav.github.io/se_project_spots/)
